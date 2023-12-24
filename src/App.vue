@@ -1,6 +1,5 @@
 <script setup>
 import Header from "./components/Header.vue";
-import GameCard from "./components/GameCard.vue";
 import { RouterView } from "vue-router"
 </script>
 
